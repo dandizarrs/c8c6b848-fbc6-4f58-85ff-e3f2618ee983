@@ -1,0 +1,6 @@
+1731988827s 1 https://dandiarchive.s3.amazonaws.com/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/processing/behavior/BehavioralTimeSeries/dz/data/.zattrs?versionId=KBjnfvKQHjgy2RSUdg1QwtazaHMqbTW1
+1731988827s 1 https://api.dandiarchive.org/api/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/files?prefix=processing%2Fbehavior%2FBehavioralTimeSeries%2Fdz%2Fdata%2F.zattrs&download=true
+1731988828s 1 https://dandiarchive.s3.amazonaws.com/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/processing/behavior/BehavioralTimeSeries/pos/data/.zattrs?versionId=y1GZfX3mEbXG_HXvggBAaqv6D_64LrjI
+1731988828s 1 https://api.dandiarchive.org/api/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/files?prefix=processing%2Fbehavior%2FBehavioralTimeSeries%2Fpos%2Fdata%2F.zattrs&download=true
+1731988828s 1 https://dandiarchive.s3.amazonaws.com/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/processing/behavior/BehavioralTimeSeries/speed/data/.zattrs?versionId=_xXIc4Q21RIntF9TXhU9Ta0ctjanbQE3
+1731988828s 1 https://api.dandiarchive.org/api/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/files?prefix=processing%2Fbehavior%2FBehavioralTimeSeries%2Fspeed%2Fdata%2F.zattrs&download=true

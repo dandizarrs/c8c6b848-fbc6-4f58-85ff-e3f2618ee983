@@ -1,0 +1,4 @@
+1731988826s 1 https://dandiarchive.s3.amazonaws.com/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/general/optophysiology/ImagingPlane/channel_0/emission_lambda/0?versionId=Rkbhmu92xgrgWMI0gx15CEq9CdLBnYIO
+1731988826s 1 https://api.dandiarchive.org/api/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/files?prefix=general%2Foptophysiology%2FImagingPlane%2Fchannel_0%2Femission_lambda%2F0&download=true
+1731988827s 1 https://dandiarchive.s3.amazonaws.com/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/general/optophysiology/ImagingPlane/excitation_lambda/0?versionId=n.0FnWyQRbryrfCsuW8R6AC__DpxfweT
+1731988827s 1 https://api.dandiarchive.org/api/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/files?prefix=general%2Foptophysiology%2FImagingPlane%2Fexcitation_lambda%2F0&download=true

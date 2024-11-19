@@ -1,0 +1,6 @@
+1731988833s 1 https://dandiarchive.s3.amazonaws.com/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/processing/ophys/Fluorescence/Deconvolved/starting_time/.zattrs?versionId=zGt43AQZco4md28j9aDhFeXZqkNmBHKA
+1731988833s 1 https://api.dandiarchive.org/api/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/files?prefix=processing%2Fophys%2FFluorescence%2FDeconvolved%2Fstarting_time%2F.zattrs&download=true
+1731988839s 1 https://dandiarchive.s3.amazonaws.com/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/processing/ophys/Fluorescence/Neuropil/starting_time/.zattrs?versionId=HAr3V6gf63SXM2v5vmUdRbjtyipN_45_
+1731988839s 1 https://api.dandiarchive.org/api/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/files?prefix=processing%2Fophys%2FFluorescence%2FNeuropil%2Fstarting_time%2F.zattrs&download=true
+1731988846s 1 https://dandiarchive.s3.amazonaws.com/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/processing/ophys/Fluorescence/RoiResponseSeries/starting_time/.zattrs?versionId=r4upXnE0nJfz7fSl6M9JvpUMmNcgo64q
+1731988846s 1 https://api.dandiarchive.org/api/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/files?prefix=processing%2Fophys%2FFluorescence%2FRoiResponseSeries%2Fstarting_time%2F.zattrs&download=true

@@ -1,0 +1,4 @@
+1731988846s 1 https://dandiarchive.s3.amazonaws.com/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/processing/ophys/Fluorescence/RoiResponseSeries/rois/0?versionId=fKLdjhG0t4vfeDD.TLETuq7Cf2gQf7bO
+1731988846s 1 https://api.dandiarchive.org/api/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/files?prefix=processing%2Fophys%2FFluorescence%2FRoiResponseSeries%2Frois%2F0&download=true
+1731988846s 1 https://dandiarchive.s3.amazonaws.com/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/processing/ophys/ImageSegmentation/PlaneSegmentation/id/0?versionId=sYKgtDqQK7pptoroKGQh4wAeqPx9mpJj
+1731988846s 1 https://api.dandiarchive.org/api/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/files?prefix=processing%2Fophys%2FImageSegmentation%2FPlaneSegmentation%2Fid%2F0&download=true

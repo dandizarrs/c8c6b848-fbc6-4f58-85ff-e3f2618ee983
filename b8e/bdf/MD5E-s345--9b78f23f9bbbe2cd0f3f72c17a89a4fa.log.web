@@ -1,0 +1,6 @@
+1731988828s 1 https://dandiarchive.s3.amazonaws.com/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/processing/ophys/Fluorescence/Deconvolved/data/.zarray?versionId=6aG9ppWD7UybVpclPAA.h5D42stfQCmX
+1731988828s 1 https://api.dandiarchive.org/api/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/files?prefix=processing%2Fophys%2FFluorescence%2FDeconvolved%2Fdata%2F.zarray&download=true
+1731988833s 1 https://dandiarchive.s3.amazonaws.com/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/processing/ophys/Fluorescence/Neuropil/data/.zarray?versionId=RiDmxQtTpkEgLthQA.GNAA2PMslAr4qS
+1731988833s 1 https://api.dandiarchive.org/api/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/files?prefix=processing%2Fophys%2FFluorescence%2FNeuropil%2Fdata%2F.zarray&download=true
+1731988839s 1 https://dandiarchive.s3.amazonaws.com/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/processing/ophys/Fluorescence/RoiResponseSeries/data/.zarray?versionId=t_hCg3ELUza_AhnDcVyzq7eFvmojqgc4
+1731988839s 1 https://api.dandiarchive.org/api/zarr/c8c6b848-fbc6-4f58-85ff-e3f2618ee983/files?prefix=processing%2Fophys%2FFluorescence%2FRoiResponseSeries%2Fdata%2F.zarray&download=true
